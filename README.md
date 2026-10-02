@@ -13,7 +13,14 @@ This repository showcases integrated workflows covering drug discovery, genomic 
 ## 🛠 Setup & Usage
 Each individual project folder contains its dedicated `README.md`, Jupyter/Colab notebook (`.ipynb`), and `requirements.txt` file.
 
+<<<<<<< HEAD
 ## 👤 Author
 - **Dr. Bijon Kumar Bhowmick**
 - GitHub: [@bejon23](https://github.com/bejon23)
 - Email: bejon23@gmail.com
+=======
+## Author & Contact
+- **Author:** Bejon Kumar Bhowmick,MS, PhD,MBA
+- **GitHub:** [@bejon23](https://github.com/bejon23)
+- **Contact:** bejon23@gmail.com
+>>>>>>> a22c91b451800c81228210a4a237c5aaf0239646
