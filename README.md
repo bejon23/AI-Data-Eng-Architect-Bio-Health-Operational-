@@ -1,30 +1,19 @@
-# AI, Data Engineering & Health Architecture
+# Bioinformatics, Computational Biology & Health AI Portfolio
 
-## Overview
-This repository contains advanced workflows, machine learning models, and data engineering pipelines designed for computational biology, drug discovery, and healthcare analytics.
+This repository showcases integrated workflows covering drug discovery, genomic RAG pipelines, and biomedical NLP systems.
 
-## Key Focus Areas
-- **Computational Drug Discovery:** Molecular docking (KRAS G12D, PAFR) and multi-ligand screening.
-- **Machine Learning & Graph Neural Networks:** Graph Convolutional Networks (GCNs) for molecular link prediction and dynamic analysis.
-- **Data Engineering Pipelines:** Scalable processing of molecular dynamics and bio-health datasets.
-- **Healthcare Decision Frameworks:** Structured evaluation and visualization using multi-stage clinical systems.
+## 📂 Portfolio Overview
 
-## Repository Structure
-```
-AI-Data-Eng-Architect-Bio-Health-Operational-/
-├── data/              # Processed molecular & health datasets
-├── notebooks/         # Google Colab / Jupyter Notebooks for analysis
-├── src/               # Python modules, PyTorch Geometric & MDAnalysis pipelines
-├── docs/              # System architecture, framework diagrams & reports
-├── .gitignore         # Rules to ignore cached/large files
-└── README.md          # Project documentation
-```
+| Gig | Category | Projects | Core Tools |
+|---|---|---|---|
+| **Gig 1** | [Computational Drug Discovery & Docking](gig1-drug-discovery-docking/) | 5 Projects | AutoDock Vina, GROMACS, DeepChem, ColabFold |
+| **Gig 2** | [Genomic RAG & Biomedical NLP](gig2-genomic-rag-biomedical-nlp/) | 5 Projects | ChromaDB, PubMedBERT, Neo4j, LaBSE, FastAPI |
+| **Gig 3** | Clinical AI & Predictive Analytics | Coming Soon | -- |
 
-## Setup & Execution
-1. Open any notebook in Google Colab directly from the `notebooks/` directory.
-2. Ensure necessary dependencies (`torch_geometric`, `MDAnalysis`, `Plotly`, `PyRx`) are configured.
+## 🛠 Setup & Usage
+Each individual project folder contains its dedicated `README.md`, Jupyter/Colab notebook (`.ipynb`), and `requirements.txt` file.
 
-## Author & Contact
-- **Author:** Bijon Kumar Bhowmick, PhD
-- **GitHub:** [@bejon23](https://github.com/bejon23)
-- **Contact:** bejon23@gmail.com
+## 👤 Author
+- **Dr. Bijon Kumar Bhowmick**
+- GitHub: [@bejon23](https://github.com/bejon23)
+- Email: bejon23@gmail.com
