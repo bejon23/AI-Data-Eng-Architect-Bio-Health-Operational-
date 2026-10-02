@@ -15,7 +15,7 @@ Each individual project folder contains its dedicated `README.md`, Jupyter/Colab
 
 <<<<<<< HEAD
 ## 👤 Author
-- **Dr. Bijon Kumar Bhowmick**
+- **Dr. Bejon Kumar Bhowmick**
 - GitHub: [@bejon23](https://github.com/bejon23)
 - Email: bejon23@gmail.com
 =======
