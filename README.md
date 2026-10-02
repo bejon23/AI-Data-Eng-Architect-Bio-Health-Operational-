@@ -25,6 +25,6 @@ AI-Data-Eng-Architect-Bio-Health-Operational-/
 2. Ensure necessary dependencies (`torch_geometric`, `MDAnalysis`, `Plotly`, `PyRx`) are configured.
 
 ## Author & Contact
-- **Author:** Bijon Kumar Bhowmick, PhD
+- **Author:** Bejon Kumar Bhowmick,MS, PhD,MBA
 - **GitHub:** [@bejon23](https://github.com/bejon23)
 - **Contact:** bejon23@gmail.com
