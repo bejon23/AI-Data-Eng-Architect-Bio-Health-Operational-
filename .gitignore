@@ -1,0 +1,10 @@
+
+# Python & Colab cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Temporary & Large Files
+*.tmp
+*.zip
+*.csv
