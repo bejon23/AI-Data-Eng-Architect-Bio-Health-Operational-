@@ -1,7 +1,7 @@
 # Gig 7a: Biology R&D Projects
 
 ## 🎯 Problem Statement
-Explain the key biological challenges, RNA-Seq analytical bottlenecks, or target analysis goals here.
+Explain the key biological challenges, RNA-Seq analytical bottlenecks, or target analysis goals here. 
 
 ## 🔄 Workflow
 1. Data QC & Preprocessing (FastQC, Trimmomatic)
