@@ -4,8 +4,9 @@ This repository showcases integrated end-to-end workflows covering computational
 
 ## 📂 Portfolio Directories
 
-* 🧬 **[Gig 1: Computational Drug Discovery & Docking](gig1-drug-discovery-docking)**  
-  *5 Projects* | AutoDock Vina, GROMACS, DeepChem, ColabFold
+* 🧬 **[Gig 1: Computational Drug Discovery & Docking](https://colab.research.google.com/github/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/blob/main/GiG1-Project1/notebook.ipynb)**
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/blob/main/GiG1-Project1/notebook.ipynb)
+
 
 * 📖 **[Gig 2: Genomic RAG & Biomedical NLP](gig2-genomic-rag-biomedical-nlp)**  
   *5 Projects* | ChromaDB, PubMedBERT, Neo4j, LaBSE, FastAPI
