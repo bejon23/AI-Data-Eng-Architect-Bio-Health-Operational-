@@ -1,0 +1,6 @@
+vina
+meeko
+openbabel-wheel
+biopython
+pandas
+matplotlib

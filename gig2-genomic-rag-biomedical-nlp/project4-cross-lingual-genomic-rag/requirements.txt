@@ -1,0 +1,5 @@
+sentence-transformers
+chromadb
+faiss-cpu
+pandas
+numpy

@@ -1,0 +1,6 @@
+deepchem
+rdkit
+pandas
+seaborn
+matplotlib
+tensorflow

@@ -1,0 +1,6 @@
+transformers
+torch
+chromadb
+fastapi
+uvicorn
+pandas

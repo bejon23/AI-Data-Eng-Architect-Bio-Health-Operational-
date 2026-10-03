@@ -1,0 +1,6 @@
+neo4j
+chromadb
+sentence-transformers
+pandas
+networkx
+matplotlib
