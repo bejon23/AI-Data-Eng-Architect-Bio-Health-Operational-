@@ -6,15 +6,15 @@ This repository showcases integrated end-to-end workflows covering computational
 
 | Gig | Category | Projects | Core Tools |
 |---|---|---|---|
-| **Gig 1** | [Computational Drug Discovery & Docking](gig1-drug-discovery-docking/) | 5 Projects | AutoDock Vina, GROMACS, DeepChem, ColabFold |
-| **Gig 2** | [Genomic RAG & Biomedical NLP](gig2-genomic-rag-biomedical-nlp/) | 5 Projects | ChromaDB, PubMedBERT, Neo4j, LaBSE, FastAPI |
-| **Gig 3** | [AI/ML for Genomics & Precision Medicine](gig3-ai-ml-genomics-precision-medicine/) | 5 Projects | AlphaFold2, ESM-2, DNABERT, PyTorch Geometric, TensorFlow Federated |
-| **Gig 4** | [Medical Data Visualization & Dashboarding](gig4-medical-data-visualization-dashboarding/) | 5 Projects | Streamlit, Plotly, Circos, PyMOL, Dash |
-| **Gig 5** | [Advanced Medical Dashboards & AI Engines](gig5-medical-data-visualization-dashboarding/) | 5 Projects | Generative Protein Design, Drug Repurposing, Pharma Intelligence |
-| **Gig 6** | [Healthcare Operations & Clinical Analytics](gig6-healthcare-operations-clinical-analytics/) | 5 Projects | ICU Bed Optimization, Readmission Prevention, ED Wait Time, ECG Arrhythmia |
-| **Gig 7a** | [Biology R&D Projects](gig7a-biology-rd-projects/) | RNA-Seq & Thesis Workflows | FastQC, STAR, DESeq2, RMarkdown |
-| **Gig 7b** | [Medical Research Projects](gig7b-medical-research-projects/) | Meta-Analysis & Clinical Stats | RevMan, R, Statsmodels, Python |
-| **Gig 7c** | [Business Operations R&D](gig7c-business-operations-rd-projects/) | Survey & Mixed Methods | Pandas, Scikit-learn, PowerBI, Qualtrics |
+| **Gig 1** | [Computational Drug Discovery & Docking](https://github.com/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/tree/main/gig1-drug-discovery-docking) | 5 Projects | AutoDock Vina, GROMACS, DeepChem, ColabFold |
+| **Gig 2** | [Genomic RAG & Biomedical NLP](https://github.com/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/tree/main/gig2-genomic-rag-biomedical-nlp) | 5 Projects | ChromaDB, PubMedBERT, Neo4j, LaBSE, FastAPI |
+| **Gig 3** | [AI/ML for Genomics & Precision Medicine](https://github.com/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/tree/main/gig3-ai-ml-genomics-precision-medicine) | 5 Projects | AlphaFold2, ESM-2, DNABERT, PyTorch Geometric, TensorFlow Federated |
+| **Gig 4** | [Medical Data Visualization & Dashboarding](https://github.com/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/tree/main/gig4-medical-data-visualization-dashboarding) | 5 Projects | Streamlit, Plotly, Circos, PyMOL, Dash |
+| **Gig 5** | [Advanced Medical Dashboards & AI Engines](https://github.com/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/tree/main/gig5-medical-data-visualization-dashboarding) | 5 Projects | Generative Protein Design, Drug Repurposing, Pharma Intelligence |
+| **Gig 6** | [Healthcare Operations & Clinical Analytics](https://github.com/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/tree/main/gig6-healthcare-operations-clinical-analytics) | 5 Projects | ICU Bed Optimization, Readmission Prevention, ED Wait Time, ECG Arrhythmia |
+| **Gig 7a** | [Biology R&D Projects](https://github.com/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/tree/main/gig7a-biology-rd-projects) | RNA-Seq & Thesis Workflows | FastQC, STAR, DESeq2, RMarkdown |
+| **Gig 7b** | [Medical Research Projects](https://github.com/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/tree/main/gig7b-medical-research-projects) | Meta-Analysis & Clinical Stats | RevMan, R, Statsmodels, Python |
+| **Gig 7c** | [Business Operations R&D](https://github.com/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/tree/main/gig7c-business-operations-rd-projects) | Survey & Mixed Methods | Pandas, Scikit-learn, PowerBI, Qualtrics |
 
 ## 🛠 Setup & Usage
 Each individual project directory contains its dedicated `README.md`, Python scripts (`.py`), Jupyter/Colab notebooks (`.ipynb`), and `requirements.txt` environment setup file.
