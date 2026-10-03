@@ -1,0 +1,8 @@
+scanpy
+anndata
+torch
+transformers
+scikit-learn
+umap-learn
+leidenalg
+matplotlib

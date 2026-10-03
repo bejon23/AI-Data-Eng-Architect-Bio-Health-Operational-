@@ -1,0 +1,8 @@
+fair-esm
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+nglview
+biopython

@@ -1,0 +1,6 @@
+tensorflow
+tensorflow-federated
+pandas
+numpy
+scikit-learn
+matplotlib

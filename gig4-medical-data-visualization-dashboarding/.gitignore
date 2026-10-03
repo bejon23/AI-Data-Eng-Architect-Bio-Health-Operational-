@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pdbqt
+*.xtc
+*.dcd
+*.tpr
+.DS_Store

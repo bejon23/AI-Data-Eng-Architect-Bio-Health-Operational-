@@ -1,0 +1,15 @@
+pandas
+numpy
+plotly
+kaleido
+dash
+scikit-learn
+torch
+torch-geometric
+networkx
+rdkit-pypi
+MDAnalysis
+nglview
+matplotlib
+seaborn
+ipywidgets
