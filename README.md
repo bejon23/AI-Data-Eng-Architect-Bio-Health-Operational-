@@ -22,13 +22,13 @@ This repository showcases integrated end-to-end workflows covering computational
 * 🏥 **[Gig 6: Healthcare Operations & Clinical Analytics](gig6-healthcare-operations-clinical-analytics)**  
   *5 Projects* | ICU Bed Optimization, Readmission Prevention, ED Wait Time, ECG Arrhythmia
 
-* 🧪 **[Gig 7a: Biology R&D Projects](gig7a-biology-rd-projects)**  
+* 🧪 **[Gig 7a: Biology R&D Projects](gig7-biology-rd)**  
   *RNA-Seq & Thesis Workflows* | FastQC, STAR, DESeq2, RMarkdown
 
-* 📑 **[Gig 7b: Medical Research Projects](gig7b-medical-research-projects)**  
+* 📑 **[Gig 7b: Medical Research Projects](gig7-medical-research)**  
   *Meta-Analysis & Clinical Stats* | RevMan, R, Statsmodels, Python
 
-* 💼 **[Gig 7c: Business Operations R&D](gig7c-business-operations-rd-projects)**  
+* 💼 **[Gig 7c: Business Operations R&D](gig7-business-operations)**  
   *Survey & Mixed Methods* | Pandas, Scikit-learn, PowerBI, Qualtrics
 
 ---
