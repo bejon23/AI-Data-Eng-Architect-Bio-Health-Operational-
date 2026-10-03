@@ -1,6 +1,6 @@
 # Bioinformatics, Computational Biology & Health AI Portfolio
 
-This repository showcases integrated end-to-end workflows covering computational drug discovery, genomic RAG architectures, precision medicine ML pipelines, medical visualization dashboards, and clinical analytics operational platforms.
+This repository showcases integrated end-to-end workflows covering computational drug discovery, genomic RAG architectures, precision medicine ML pipelines, medical visualization dashboards, clinical analytics, and R/D consultancy reporting.
 
 ## 📂 Portfolio Overview
 
@@ -12,6 +12,7 @@ This repository showcases integrated end-to-end workflows covering computational
 | **Gig 4** | [Medical Data Visualization & Dashboarding](gig4-medical-data-visualization-dashboarding/) | 5 Projects | Streamlit, Plotly, Circos, PyMOL, Dash |
 | **Gig 5** | [Advanced Medical Dashboards & AI Engines](gig5-medical-data-visualization-dashboarding/) | 5 Projects | Generative Protein Design, Drug Repurposing, Pharma Intelligence |
 | **Gig 6** | [Healthcare Operations & Clinical Analytics](gig6-healthcare-operations-clinical-analytics/) | 5 Projects | ICU Bed Optimization, Readmission Prevention, ED Wait Time, ECG Arrhythmia |
+| **Gig 7** | [R/D and Consultancy Reporting](gig7-rd-consultancy-reporting/) | 3 Sub-categories (Biology, Medical, Business) | RNA-Seq, Meta-Analysis, Clinical Stats, Survey Data Analytics |
 
 ## 🛠 Setup & Usage
 Each individual project directory contains its dedicated `README.md`, Python scripts (`.py`), Jupyter/Colab notebooks (`.ipynb`), and `requirements.txt` environment setup file.
