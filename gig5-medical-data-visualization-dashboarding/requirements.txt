@@ -1,0 +1,46 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Bioinformatics
+biopython
+MDAnalysis
+nglview
+py3Dmol
+rdkit-pypi
+networkx
+colabdesign
+
+# NLP / LLM
+transformers
+sentence-transformers
+spacy
+googletrans==4.0.0-rc1
+bertopic
+langchain
+
+# Web / API
+requests
+beautifulsoup4
+
+# ML
+torch
+torch-geometric
+hdbscan
+
+# Docking
+vina
+meeko
+openbabel
+
+# Dashboard
+plotly
+kaleido
+dash
+ipywidgets
+
+# Survival Analysis
+lifelines

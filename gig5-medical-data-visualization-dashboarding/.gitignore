@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pdb
+*.pdbqt
+*.xtc
+*.dcd
+*.tpr
+*.csv
+*.png
+*.html
+.DS_Store
+.vscode/
