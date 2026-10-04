@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig3-ai-ml-genomics-precision-medicine/project1-alphafold2-esm2-brca-variant-effect/notebook.ipynb)
 
+https://colab.research.google.com/drive/1bs8jQtTZZNTJK_RwBTjaJJtVyuG4opKD
+
 ## Problem
 Mutations in BRCA1 and BRCA2 raise breast cancer risk, but among thousands of variants it is hard to know which ones damage protein structure and cause disease. This project combines 3D structure (AlphaFold2), sequence embeddings (ESM-2) and a stability score to predict if a variant is pathogenic or benign.
 
