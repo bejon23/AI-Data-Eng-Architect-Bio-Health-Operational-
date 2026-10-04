@@ -17,3 +17,6 @@ Mining 1M+ PubMed abstracts for hidden disease-drug associations.
 
 ## How to Run
 Open `drug_repurposing_engine.py` in Colab.
+
+
+https://colab.research.google.com/drive/15X1WDtXeBdMyOguuUgVYwycSv_YcCZPE
