@@ -2,6 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig2-genomic-rag-biomedical-nlp/project5-md-simulation-protein-ligand/notebook.ipynb)
 
+
+https://colab.research.google.com/drive/1ZayDWyFhdT_ov0JWXuI40gIdqnhQZ2HQ
+
 ## Problem
 Docking shows how strongly a ligand binds, but not whether it stays bound over time. MD simulation tracks atom movement to check if the best docked compounds are really stable, so lab time is not wasted on weak candidates.
 
