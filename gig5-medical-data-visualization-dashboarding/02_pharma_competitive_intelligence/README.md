@@ -18,3 +18,8 @@ Real-time monitoring of 100+ biotech companies from SEC filings & patents.
 
 ## How to Run
 Open `pharma_intelligence.py` in Colab.
+
+
+GiG5 Project 2 A: 
+
+https://colab.research.google.com/drive/12IhtFy4ONiiiieJ3H3vlNUWhhVp66vUL
