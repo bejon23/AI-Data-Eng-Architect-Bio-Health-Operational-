@@ -2,6 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig2-genomic-rag-biomedical-nlp/project1-brca1-variant-search-rag/notebook.ipynb)
 
+
+https://colab.research.google.com/drive/1gxno-yhnrwcBcTvXTwqtXN8imxmH3nJF
+
 ## Problem
 Information about BRCA1 variants and cancer risk is scattered across many sources, so finding the right answer fast is hard. This project builds a search system where a user asks in plain English (for example, 'Which BRCA1 variants cause ovarian cancer?') and gets the most relevant variants and risk information.
 
