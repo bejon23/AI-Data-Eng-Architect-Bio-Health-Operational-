@@ -2,6 +2,12 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig1-drug-discovery-docking/project3-fep-hiv-protease-resistance/notebook.ipynb)
 
+
+Manual colab access: 
+
+https://colab.research.google.com/drive/1cWkAPH9-mrMz1-F8v9TAG6FpnWG_EsMv
+
+
 ## Problem
 HIV-1 protease mutates quickly, and drugs stop working (drug resistance). This project compares drug binding to the wild-type protein and a mutant protein to see how much binding weakens.
 
