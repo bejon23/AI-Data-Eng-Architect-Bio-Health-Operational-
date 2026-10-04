@@ -2,6 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig2-genomic-rag-biomedical-nlp/project4-cross-lingual-genomic-rag/notebook.ipynb)
 
+
+https://colab.research.google.com/drive/1WWQe7vJuA_yf-85qjbBIo1HvPt7JhvLR
+
 ## Problem
 Most genetics data is in English, but many people and doctors in South Asia need it in Bengali. This project lets a user search in Bengali or English, finds matching genetic variants with semantic search, and explains the result in simple Bengali.
 
