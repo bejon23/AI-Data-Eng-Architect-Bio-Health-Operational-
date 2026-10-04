@@ -5,6 +5,8 @@ I help students and researchers turn raw data into finished thesis chapters and 
 
 [Download the full service details (PDF)](Gig7_Services_Overview.pdf)**
 
+📄 [Download the full service details (PDF)](Gig7_Services_Overview.pdf)
+
 
 Project 1: RNA-Seq Thesis Pipeline
 
