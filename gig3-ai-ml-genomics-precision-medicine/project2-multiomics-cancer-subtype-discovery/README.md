@@ -2,6 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig3-ai-ml-genomics-precision-medicine/project2-multiomics-cancer-subtype-discovery/notebook.ipynb)
 
+
+https://colab.research.google.com/drive/1z0djRh2jSKd5gOJDaObkqxNBoeQhyh-d
+
+
 ## Problem
 Looking at only DNA or only RNA gives an incomplete picture of a cancer. This project combines genomic and single-cell transcriptomic data with transformer-based embeddings (DNABERT, scGPT) to find cancer subtypes.
 
