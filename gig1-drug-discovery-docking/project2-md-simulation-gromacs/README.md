@@ -2,6 +2,11 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig1-drug-discovery-docking/project2-md-simulation-gromacs/notebook.ipynb)
 
+Manual colab access: 
+
+
+https://colab.research.google.com/drive/18YW8A7IH9F-k0epl9noOGYuSCOxmygh7#scrollTo=ToeCZ9OlDUOW
+
 ## Problem
 Docking shows how strongly a ligand binds, but not whether it stays bound over time. Molecular Dynamics (MD) simulation tracks atom movement and checks if the complex is stable.
 
