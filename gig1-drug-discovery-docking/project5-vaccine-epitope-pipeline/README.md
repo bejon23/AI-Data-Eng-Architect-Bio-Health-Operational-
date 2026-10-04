@@ -2,6 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig1-drug-discovery-docking/project5-vaccine-epitope-pipeline/notebook.ipynb)
 
+
+https://colab.research.google.com/drive/1be6dZed4osewZGFb9yuFJUCouYKHFSm5
+
 ## Problem
 A good vaccine needs peptides (epitopes) that bind HLA strongly, are not allergenic, and are not toxic. Checking this in the lab is slow and costly. This project builds a computer pipeline to shortlist safe and effective epitopes.
 
