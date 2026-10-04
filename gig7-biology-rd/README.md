@@ -3,8 +3,6 @@ What I Can Do For You
 
 I help students and researchers turn raw data into finished thesis chapters and papers. Below are the 2 services in this gig.
 
-[Download the full service details (PDF)](Gig7_Services_Overview.pdf)**
-
 📄 [Download the full service details (PDF)](Gig7_Services_Overview.pdf)
 
 
