@@ -2,6 +2,11 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig3-ai-ml-genomics-precision-medicine/project3-crispr-grna-cnn-lstm/notebook.ipynb)
 
+
+Manual colab access: 
+
+https://colab.research.google.com/drive/1cWkAPH9-mrMz1-F8v9TAG6FpnWG_EsMv
+
 ## Problem
 Wrong-site edits (off-target effects) are a safety risk in CRISPR-Cas9 genome editing. This project trains a CNN + LSTM model on guide RNA sequences to predict on-target efficiency and off-target risk.
 
