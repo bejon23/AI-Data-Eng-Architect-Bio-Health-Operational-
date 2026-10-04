@@ -2,6 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig1-drug-discovery-docking/project4-admet-deepchem/notebook.ipynb)
 
+
+https://colab.research.google.com/drive/14-0dcEEwHRBG-kDQs-vOqBwxvUbLZ5Aa
+
+
 ## Problem
 A drug must bind well and also be safe in the body. This project joins docking scores with AI-predicted toxicity so we can find drugs that bind strongly and have low toxicity risk.
 
