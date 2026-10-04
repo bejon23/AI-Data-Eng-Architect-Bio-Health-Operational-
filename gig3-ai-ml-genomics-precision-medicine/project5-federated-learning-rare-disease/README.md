@@ -2,6 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig3-ai-ml-genomics-precision-medicine/project5-federated-learning-rare-disease/notebook.ipynb)
 
+
+https://colab.research.google.com/drive/1O79GCg8bMFivOpkVezW3_gt3QaqDrKJq
+
+
 ## Problem
 Rare disease data is small and spread across hospitals, and privacy rules stop it from being moved to one server. This project simulates 5 hospitals that train a model locally and share only model weights, which a central server averages (FedAvg).
 
