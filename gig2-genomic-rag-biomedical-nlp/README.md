@@ -11,3 +11,14 @@ Five Google Colab projects on retrieval-augmented generation (RAG), graph databa
 | 5 | [Molecular Dynamics Simulation for Protein-Ligand Structural Stability](project5-md-simulation-protein-ligand/) | Python, GROMACS, Matplotlib, MDAnalysis |
 
 Each folder has a notebook, a README and a requirements file.
+
+
+Some more projects in this GiG2 ( not given in Top 5):
+
+GiG2 Project 6: 
+
+https://colab.research.google.com/drive/1TcLg2COy7H9_c1dTnX5y3m0XeXe36pNb
+
+
+
+
