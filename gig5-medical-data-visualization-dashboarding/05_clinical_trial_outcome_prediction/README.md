@@ -17,3 +17,5 @@ Summarizing 5,000+ trial results to predict future success rates.
 
 ## How to Run
 Open `clinical_trial_prediction.py` in Colab.
+
+https://colab.research.google.com/drive/1kzjWNzaPgkzzDwYYKeVF3J_gXyL2ZlGT
