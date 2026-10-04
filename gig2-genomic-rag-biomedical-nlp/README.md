@@ -19,6 +19,10 @@ GiG2 Project 6:
 
 https://colab.research.google.com/drive/1TcLg2COy7H9_c1dTnX5y3m0XeXe36pNb
 
+GiG2 Project 7: 
+
+https://colab.research.google.com/drive/1M2eIYf3XCB7w0lvAeIzt66IaezsVslIM
+
 
 
 
