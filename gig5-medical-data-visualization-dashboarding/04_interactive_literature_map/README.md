@@ -15,3 +15,5 @@ Network visualization of gene-phenotype relationships from 50,000 publications.
 
 ## How to Run
 Open `literature_map.py` in Colab.
+
+https://colab.research.google.com/drive/1hIfdqp-z3Z5aoKdWgaID-yL74P3mr5RN
