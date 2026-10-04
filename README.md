@@ -31,6 +31,9 @@ This repository showcases integrated end-to-end workflows covering computational
 * 💼 **[Gig 7c: Business Operations R&D](gig7-business-operations)**  
   *Survey & Mixed Methods* | Pandas, Scikit-learn, PowerBI, Qualtrics
 
+
+Presently I am planning to work on two more GiGs ( Financial and Real Estate Data domains) 
+
 ---
 
 ## 🛠 Setup & Usage
