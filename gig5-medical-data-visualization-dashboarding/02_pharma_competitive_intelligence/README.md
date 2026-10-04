@@ -23,3 +23,8 @@ Open `pharma_intelligence.py` in Colab.
 GiG5 Project 2 A: 
 
 https://colab.research.google.com/drive/12IhtFy4ONiiiieJ3H3vlNUWhhVp66vUL
+
+
+GiG5 Project 2B;
+
+https://colab.research.google.com/drive/1b7iCljN43rpff8Syra-3EGzfd7-67FXp
