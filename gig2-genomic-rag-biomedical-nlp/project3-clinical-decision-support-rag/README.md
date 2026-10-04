@@ -2,6 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig2-genomic-rag-biomedical-nlp/project3-clinical-decision-support-rag/notebook.ipynb)
 
+
+https://colab.research.google.com/drive/1iSKak6uSr81yvC1gzq8govY7iHZKsAvJ
+
+
 ## Problem
 Doctors cannot easily search thousands of medical papers for the right evidence. This project builds an API that takes patient symptoms, maps them to standard medical concepts, retrieves related evidence, and returns an evidence-based suggestion.
 
