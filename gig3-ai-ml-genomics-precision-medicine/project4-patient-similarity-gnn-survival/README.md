@@ -2,6 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig3-ai-ml-genomics-precision-medicine/project4-patient-similarity-gnn-survival/notebook.ipynb)
 
+
+https://colab.research.google.com/drive/1TC2slL-7rhKF0KvzcO-YN0Uaus4vLPCu
+
 ## Problem
 Every cancer patient is biologically different, so predicting survival is hard. This project connects similar TCGA patients in a network and uses a Graph Neural Network to learn from neighbours and predict personalized survival.
 
