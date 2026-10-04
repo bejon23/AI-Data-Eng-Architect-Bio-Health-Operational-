@@ -16,6 +16,9 @@ De novo design of enzymes using Diffusion Probabilistic Models + AlphaFold + RFd
 ## How to Run
 Open `generative_protein_design.py` in Google Colab (GPU recommended).
 
+https://colab.research.google.com/drive/1x_OKw371wrz68JTfRbhHbz1oniYptOiy
+
+
 ## Output
 - `target_structure.pdb`
 - `complex_backbone.pdb`
