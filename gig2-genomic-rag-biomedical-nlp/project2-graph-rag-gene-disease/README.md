@@ -2,6 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig2-genomic-rag-biomedical-nlp/project2-graph-rag-gene-disease/notebook.ipynb)
 
+https://colab.research.google.com/drive/1gsfyG4zahL9ZneZYkDyudA3OhCosL1dQ
+
+
+
 ## Problem
 Genes and diseases are connected like a network, but normal text search only matches words and misses these links. This project combines a graph database (Neo4j) for gene-disease relationships with a vector database (ChromaDB) for gene descriptions, and an LLM to write the final answer.
 
