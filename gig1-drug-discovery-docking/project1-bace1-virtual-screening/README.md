@@ -2,6 +2,12 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gig1-drug-discovery-docking/project1-bace1-virtual-screening/notebook.ipynb)
 
+Manually Colab access: 
+
+https://colab.research.google.com/drive/1o-Lk__t9IGTlfoQDvYIq8E3oGKkwcwW-
+
+
+
 ## Problem
 **Problem Statement**
 
