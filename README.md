@@ -4,9 +4,13 @@ This repository showcases integrated end-to-end workflows covering computational
 
 ## 📂 Portfolio Directories
 
-* 🧬 **[Gig 1: Computational Drug Discovery & Docking](https://colab.research.google.com/github/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/blob/main/GiG1-Project1/notebook.ipynb)**
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/blob/main/GiG1-Project1/notebook.ipynb)
-
+* 🧬 **[Gig 1: Computational Drug Discovery & Docking](gig1-drug-discovery-docking)**
+  * *5 Projects* | AutoDock Vina, GROMACS, DeepChem, ColabFold
+  * 🔗 **[Project 1: BACE1 Virtual Screening](gig1-drug-discovery-docking/project1-bace1-virtual-screening)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/blob/main/gig1-drug-discovery-docking/project1-bace1-virtual-screening/notebook.ipynb)
+  * 🔗 **[Project 2: KRAS Phytochemical Docking](gig1-drug-discovery-docking/project2-kras-phytochemical-docking)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/blob/main/gig1-drug-discovery-docking/project2-kras-phytochemical-docking/notebook.ipynb)
+  * 🔗 **[Project 3: Molecular Dynamics Simulation](gig1-drug-discovery-docking/project3-molecular-dynamics-simulation)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/blob/main/gig1-drug-discovery-docking/project3-molecular-dynamics-simulation/notebook.ipynb)
+  * 🔗 **[Project 4: PAF Receptor Screening](gig1-drug-discovery-docking/project4-paf-receptor-screening)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/blob/main/gig1-drug-discovery-docking/project4-paf-receptor-screening/notebook.ipynb)
+  * 🔗 **[Project 5: Lead Optimization Pipeline](gig1-drug-discovery-docking/project5-lead-optimization-pipeline)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/blob/main/gig1-drug-discovery-docking/project5-lead-optimization-pipeline/notebook.ipynb)
 
 * 📖 **[Gig 2: Genomic RAG & Biomedical NLP](gig2-genomic-rag-biomedical-nlp)**  
   *5 Projects* | ChromaDB, PubMedBERT, Neo4j, LaBSE, FastAPI
