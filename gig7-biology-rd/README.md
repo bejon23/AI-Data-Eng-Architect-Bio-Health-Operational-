@@ -119,6 +119,26 @@ Want to work together? Message me:
 
 Please see : 
 
+GiG7(a) Project1:
+
+https://colab.research.google.com/drive/1f2p6_GyZvAD5QPFkeEQQZGPxA_GUpfPW
+
+GiG7(a) Project2
 
 
+https://colab.research.google.com/drive/1cRC-qehj0YG4ofK-PhyZBAMDxQwLRpnq
 
+GiG7(a) Project3
+
+
+https://colab.research.google.com/drive/1Dk8LhmhJBgiTK98DPlT_SZC4n5wMaOyA
+
+GiG7(a) Project4
+
+
+https://colab.research.google.com/drive/1Ikw32GzAz5dRvicYVl07eA0LSTEpIdrO
+
+
+GiG7(a) Project5
+
+https://colab.research.google.com/drive/1oOuCu5oEmrnFUyPIIU5iBk6UkZCdZkwG
