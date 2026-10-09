@@ -14,3 +14,45 @@ Highlight clinical meta-analysis goals, synthesis of disparate trial data, or ob
 
 ## 📁 Repository Workflows
 - `01_medical_meta_analysis.ipynb`
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Contact
+
+Want to work together? Message me:
+- LinkedIn: [Bejon Kumar Bhowmick linkedin]
+- Email: [bejon23@gmail.com]
+
+
+5 projects done : 
+
+Please see : 
+
+GiG7(b) Project1
+
+
+
+GiG7(a) Project2
+
+
+
+
+GiG7(a) Project3
+
+
+
+
+GiG7(a) Project4
+
+
+
+
+
+GiG7(a) Project5
+
+
+
+
+
