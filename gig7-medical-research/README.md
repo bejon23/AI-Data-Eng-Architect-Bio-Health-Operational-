@@ -34,23 +34,23 @@ GiG7(b) Project1
 
 
 
-GiG7(a) Project2
+GiG7(b) Project2
 
 
 
 
-GiG7(a) Project3
+GiG7(b) Project3
 
 
 
 
-GiG7(a) Project4
+GiG7(b) Project4
 
 
 
 
 
-GiG7(a) Project5
+GiG7(b) Project5
 
 
 
