@@ -1,3 +1,29 @@
+<!-- CONNECT-START -->
+**By Dr. Bejon Kumar Bhowmick** | Biomedical AI & Data Engineering Architect
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
+
+](https://www.linkedin.com/in/BejonKumarBhowick)
+[
+
+![Kaggle](https://img.shields.io/badge/Kaggle-Datasets-20BEFF?logo=kaggle)
+
+](https://www.kaggle.com/bhowmickbk)
+[
+
+![Email](https://img.shields.io/badge/Email-bejon23%40gmail.com-red?logo=gmail)](mailto:bejon23@gmail.com)
+[
+
+![GitHub Profile](https://img.shields.io/badge/GitHub-bejon23-black?logo=github)
+
+](https://github.com/bejon23)
+
+> Bio-health and operational datasets are on my [Kaggle profile](https://www.kaggle.com/bhowmickbk).
+> Every project in this repository runs in Google Colab.
+<!-- CONNECT-END -->
+
 # Bioinformatics, Computational Biology & Health AI Portfolio
 
 This repository showcases integrated end-to-end workflows covering computational drug discovery, genomic RAG architectures, precision medicine ML pipelines, medical visualization dashboards, clinical analytics, and R&D consultancy reporting.
