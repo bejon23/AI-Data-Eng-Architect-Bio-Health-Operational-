@@ -14,7 +14,7 @@ This repository showcases integrated end-to-end workflows covering computational
 *  **[Gig 7b: Medical Research Projects](gig7-medical-research)**: Meta-Analysis & Clinical Stats | RevMan, R, Statsmodels, Python
 *  **[Gig 7c: Business Operations R&D](gig7-business-operations)**: Survey & Mixed Methods | Pandas, Scikit-learn, PowerBI, Qualtrics
 
-Presently, I did some works on Real Estate, Asset and operational aspects.
+Presently, I did some works on Real Estate, Asset Management,  Operational aspects.
 
 *  **[Gig 8: Real Estate, Asset Management R&D and Consultancy Projects](gig8-Asset-Management)**: Mixed Methods
 
