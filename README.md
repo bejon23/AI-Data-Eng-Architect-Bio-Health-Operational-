@@ -32,14 +32,19 @@ This repository showcases integrated end-to-end workflows covering computational
   *Survey & Mixed Methods* | Pandas, Scikit-learn, PowerBI, Qualtrics
 
 
+
+
 Presently I am planning to work on two more GiGs ( Financial and Real Estate Data domains) 
 
----
+
+
+* 🧪 **[Gig 8: Real Estate, Asset Management R&D and Consultancy Projects]
+
 
 ## 🛠 Setup & Usage
 Each individual project directory contains its dedicated `README.md`, Python scripts (`.py`), Jupyter/Colab notebooks (`.ipynb`), and `requirements.txt` environment setup file.
 
-## 👤 Author
-- **Dr. Bejon Kumar Bhowmick,MS,PhD,MBA**
+Author
+**Dr. Bejon Kumar Bhowmick,MS,PhD,MBA**
 - GitHub: [@bejon23](https://github.com/bejon23)
 - Email: bejon23@gmail.com
