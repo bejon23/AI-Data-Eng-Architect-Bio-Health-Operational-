@@ -38,7 +38,12 @@ Presently I am planning to work on two more GiGs ( Financial and Real Estate Dat
 
 
 
-* 🧪 **[Gig 8: Real Estate, Asset Management R&D and Consultancy Projects]
+* 💼 **[Gig 7c: Business Operations R&D](gig7-business-operations)**  
+  *Survey & Mixed Methods* | Pandas, Scikit-learn, PowerBI, Qualtrics
+
+
+* 🧪 **[Gig 8: Real Estate, Asset Management R&D and Consultancy Projects](gig8-Asset Management)**
+*& Mixed Methods* 
 
 
 ## 🛠 Setup & Usage
