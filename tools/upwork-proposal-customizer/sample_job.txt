@@ -1,0 +1,6 @@
+SAMPLE JOB POST (example only)
+
+I am a PhD student and need help with a meta-analysis for my diabetes thesis.
+I have 18 studies in Excel. I need pooled effect sizes, a forest plot, a funnel plot and a heterogeneity check.
+Deadline is 3 weeks. Budget is $300.
+Please tell me which software you use and share previous work. Can you also explain the results so I can defend them in my viva?
