@@ -1,0 +1,18 @@
+SAMPLE PROPOSAL (example only)
+
+Hi,
+
+You need meta-analysis, heterogeneity and forest plot done correctly within 3 weeks.
+
+I have a PhD, postdoctoral and teaching experience, and I built a Python workflow that creates PRISMA flow, forest and funnel plots, heterogeneity checks and a written results paragraph.
+
+I would start with a short review of your data and goal, then send a plan with a timeline and a first small result.
+
+I work in Python and R, with notebooks you can rerun, and I can export tables to Excel or Word. A related sample is linked below. I will also walk you through every result in simple words, so you can defend it.
+
+Related sample: https://github.com/bejon23/AI-Data-Eng-Architect-Bio-Health-Operational-/tree/main/gig7-medical-research/m1-meta-analysis-kit
+
+Which journal or supervisor guideline should the tables and figures follow?
+
+Best regards,
+Dr. Bejon Kumar Bhowmick
