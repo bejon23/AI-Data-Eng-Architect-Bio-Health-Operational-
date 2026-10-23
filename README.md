@@ -32,7 +32,7 @@ This repository showcases integrated end-to-end workflows covering computational
 
 *  **[Gig 1: Computational Drug Discovery & Docking](gig1-drug-discovery-docking)**: 5 Projects | AutoDock Vina, GROMACS, DeepChem, ColabFold
 *  **[Gig 2: Genomic RAG & Biomedical NLP](gig2-genomic-rag-biomedical-nlp)**: 5 Projects | ChromaDB, PubMedBERT, Neo4j, LaBSE, FastAPI
-*  **[Gig 3: AI/ML for Genomics & Precision Medicine](gig3-ai-ml-genomics-precision-medicine)**: 5 Projects | AlphaFold2, ESM-2, DNABERT, PyTorch Geometric, TensorFlow Federated
+*  **[Gig 3 (multi projects) : AI/ML for Genomics & Precision Medicine](gig3-ai-ml-genomics-precision-medicine)**: 5 Projects | AlphaFold2, ESM-2, DNABERT, PyTorch Geometric, TensorFlow Federated
 *  **[Gig 4: Medical Data Visualization & Dashboarding](gig4-medical-data-visualization-dashboarding)**: 5 Projects | Streamlit, Plotly, Circos, PyMOL, Dash
 * **[Gig 5: Advanced Medical Dashboards & AI Engines](gig5-medical-data-visualization-dashboarding)**: 5 Projects | Generative Protein Design, Drug Repurposing, Pharma Intelligence
 * **[Gig 6: Healthcare Operations & Clinical Analytics](gig6-healthcare-operations-clinical-analytics)**: 5 Projects | ICU Bed Optimization, Readmission Prevention, ED Wait Time, ECG Arrhythmia
